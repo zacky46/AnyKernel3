@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SunBreakeR-whyred/EAS-QTi Kernel by zacky_ma
+kernel.string=SunBreakeR-whyred Kernel by zacky_ma
 do.devicecheck=1
 do.modules=0
 do.systemless=1
