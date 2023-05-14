@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Extended Kernel by attack11 @ xda-developers
+kernel.string=Perf Kernel by zacky_ma
 do.devicecheck=1
 do.modules=0
 do.systemless=1
