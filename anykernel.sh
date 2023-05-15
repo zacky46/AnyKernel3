@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuicksilveR Kernel by ghostrider-reborn
+kernel.string=MRT-ginkgo Kernel by zacky_ma @ Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
