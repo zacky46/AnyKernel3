@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SunBreakeR-whyred Kernel by zacky_ma
+kernel.string=MRT-whyred™ Kernel by zacky_ma @ Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
