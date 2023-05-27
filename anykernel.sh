@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MRT-ginkgo Kernel by zacky_ma @ Telegram
+kernel.string=HaruanGaming v6969696969 Kernel by zacky_ma @ Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
